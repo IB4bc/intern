@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>情報入力画面</title>
 </head>
-<form action="mission_2-4.php" method="post" >
+<form action="mission2-4.php" method="post" >
 <h1>情報入力フォーム</h1><br>
 <p>名前<br>
 <input type="text" name="name"><br>
